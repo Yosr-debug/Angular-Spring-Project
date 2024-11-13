@@ -110,7 +110,7 @@ L'**interface utilisateur** affiche une liste d'événements , avec des options 
 
 ## Vidéo démonstrative
 
-[Regarder la vidéo de démonstration]([https://www.youtube.com/watch?v=XXXXXXX](https://www.youtube.com/watch?v=fvjUD1T0394))
+[Regarder la vidéo de démonstration](https://www.youtube.com/watch?v=fvjUD1T0394)
 
 
 
